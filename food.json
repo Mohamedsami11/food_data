@@ -1,156 +1,178 @@
 [
-    {
-        "id": 1,
-        "title": "Chicken Burger",
-        "description": "Double chicken with pickle,cheese,tomato,ketchup,onion and lettuce",
-        "price": 128,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chickenburger.png"
-    },
-    {
-        "id": 2,
-        "title": "Beef Burger",
-        "description": "Double beef with pickle,cheese,tomato,ketchup,onion and lettuce",
-        "price": 137,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/beefburger.png"
-    },
-    {
-        "id": 3,
-        "title": "Cheese Burger",
-        "description": "Extra cheese",
-        "price": 85,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/cheesseburger.png"
-    },
-    {
-        "id": 4,
-        "title": "Bacon Burger",
-        "description": "Lean ground beef, bacon, red pepper flakes, smoked paprika",
-        "price": 130,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/baconburger.png"
-    },
-    {
-        "id": 5,
-        "title": "Lamb Burger",
-        "description": "Ground lamb, dijon mustard, rosemary, tomato, mayonnaise",
-        "price": 135,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/LambBurger.png"
-    },
-    {
-        "id": 6,
-        "title": "Shawarma Burger",
-        "description": "Chicken thighs, red wine vinegar, lemon, mint, tomato",
-        "price": 95,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/shawrmaburger.png"
-    },
-    {
-        "id": 7,
-        "title": "Supreme Pizza",
-        "description": "A loaded pizza topped with pepperoni, sausage, onions, bell peppers, and olives for a rich and bold flavor.",
-        "price": 120,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/SupremePizza.png"
-    },
-    {
-        "id": 8,
-        "name": "Hawaiian Pizza",
-        "description": "A sweet and savory mix of juicy pineapple, ham, and melted cheese on a classic tomato base.",
-        "price": 160,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/HawaiianPizza.png"
-    },
-    {
-        "id": 9,
-        "name": "BBQ Pizza",
-        "description": "Smoky barbecue sauce with tender chicken, onions, and mozzarella for a bold, tangy taste.",
-        "price": 135,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/BBQPizza1.png"
-    },
-    {
-        "id": 10,
-        "name": "Pepperoni Pizza",
-        "description": "A classic favorite featuring crispy pepperoni slices and melted cheese on a tomato sauce base.",
-        "price": 125,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/pizza2.png"
-    },
-    {
-        "id": 11,
-        "name": "Margherita Pizza",
-        "description": "Simple and delicious with fresh tomatoes, mozzarella, and basil for a true Italian flavor.",
-        "price": 85,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/pizza-margherita.png"
-    },
-    {
-        "id": 12,
-        "name": "Chicken Ranch Pizza",
-        "description": "Creamy ranch sauce topped with grilled chicken, mozzarella, and herbs for a satisfying bite.",
-        "price": 100,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chickenranchpizza.png"
-    },
-    {
-        "id": 13,
-        "name": "Chicken Crepe",
-        "description": "White wine vinegar, chicken breasts, gruyere cheese, dijo",
-        "price": 90,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chicken_crepe.png"
-    },
-    {
-        "id": 14,
-        "name": "Meat Crepe",
-        "description": "Pulled pork, sour cream, crepes, hard boiled eggs, butter",
-        "price": 110,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/meat_crepe.png"
-    },
-    {
-        "id": 15,
-        "name": "French Fries Crepe",
-        "description": "French fries, mozzarella, ketchup ",
-        "price": 50,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/fries_crepe.png"
-    },
-    {
-        "id": 16,
-        "name": "Dark Chocolate Crepe",
-        "description": "Chocolate pudding mix, evaporated milk, heavy cream,",
-        "price": 50,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/dark_chocolate_crepe.png"
-    },
-    {
-        "id": 17,
-        "name": "Chicken Breast Meal",
-        "description": "Tender grilled chicken breast served with a side of vegetables or fries for a healthy and delicious meal.",
-        "price": 160,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chicken_slice_meal.png"
-    },
-    {
-        "id": 18,
-        "name": "French Fries Meal",
-        "description": "Crispy golden fries served with your choice of dipping sauce for a simple and satisfying snack or side.",
-        "price": 100,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/french-fries-meal.png"
-    },
-    {
-        "id": 19,
-        "name": "Meat Meal",
-        "description": "A hearty plate of seasoned meat served with sides like rice or potatoes for a filling meal.",
-        "price": 165,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/meat_tomato_meal.png"
-    },
-    {
-        "id": 20,
-        "name": "Sea Food Meal",
-        "description": "A tasty mix of fresh seafood, seasoned perfectly and served with a side of salad or rice.",
-        "price": 180,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/seafoodmeal.png"
-    },
-    {
-        "id": 21,
-        "name": "Steak Meal",
-        "description": "Juicy grilled steak cooked to perfection and paired with vegetables or mashed potatoes.",
-        "price": 170,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/meal.png"
-    },
-    {
-        "id": 22,
-        "name": "Fettuccine",
-        "description": "Classic Italian pasta cooked in a creamy sauce with parmesan and herbs for rich flavor.",
-        "price": 110,
-        "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/Fettuccine.png"
-    }
+  {
+    "id": 1,
+    "title": "Chicken Burger",
+    "category": "burger",
+    "description": "Double chicken with pickle,cheese,tomato,ketchup,onion and lettuce",
+    "price": 128,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chickenburger.png"
+  },
+  {
+    "id": 2,
+    "title": "Beef Burger",
+    "category": "burger",
+    "description": "Double beef with pickle,cheese,tomato,ketchup,onion and lettuce",
+    "price": 137,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/beefburger.png"
+  },
+  {
+    "id": 3,
+    "title": "Cheese Burger",
+    "category": "burger",
+    "description": "Extra cheese",
+    "price": 85,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/cheesseburger.png"
+  },
+  {
+    "id": 4,
+    "title": "Bacon Burger",
+    "category": "burger",
+    "description": "Lean ground beef, bacon, red pepper flakes, smoked paprika",
+    "price": 130,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/baconburger.png"
+  },
+  {
+    "id": 5,
+    "title": "Lamb Burger",
+    "category": "burger",
+    "description": "Ground lamb, dijon mustard, rosemary, tomato, mayonnaise",
+    "price": 135,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/LambBurger.png"
+  },
+  {
+    "id": 6,
+    "title": "Shawarma Burger",
+    "category": "burger",
+    "description": "Chicken thighs, red wine vinegar, lemon, mint, tomato",
+    "price": 95,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/shawrmaburger.png"
+  },
+  {
+    "id": 7,
+    "title": "Supreme Pizza",
+    "category": "pizza",
+    "description": "A loaded pizza topped with pepperoni, sausage, onions, bell peppers, and olives for a rich and bold flavor.",
+    "price": 120,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/SupremePizza.png"
+  },
+  {
+    "id": 8,
+    "title": "Hawaiian Pizza",
+    "category": "pizza",
+    "description": "A sweet and savory mix of juicy pineapple, ham, and melted cheese on a classic tomato base.",
+    "price": 160,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/HawaiianPizza.png"
+  },
+  {
+    "id": 9,
+    "title": "BBQ Pizza",
+    "category": "pizza",
+    "description": "Smoky barbecue sauce with tender chicken, onions, and mozzarella for a bold, tangy taste.",
+    "price": 135,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/BBQPizza1.png"
+  },
+  {
+    "id": 10,
+    "title": "Pepperoni Pizza",
+    "category": "pizza",
+    "description": "A classic favorite featuring crispy pepperoni slices and melted cheese on a tomato sauce base.",
+    "price": 125,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/pizza2.png"
+  },
+  {
+    "id": 11,
+    "title": "Margherita Pizza",
+    "category": "pizza",
+    "description": "Simple and delicious with fresh tomatoes, mozzarella, and basil for a true Italian flavor.",
+    "price": 85,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/pizza-margherita.png"
+  },
+  {
+    "id": 12,
+    "title": "Chicken Ranch Pizza",
+    "category": "pizza",
+    "description": "Creamy ranch sauce topped with grilled chicken, mozzarella, and herbs for a satisfying bite.",
+    "price": 100,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chickenranchpizza.png"
+  },
+  {
+    "id": 13,
+    "title": "Chicken Crepe",
+    "category": "crepe",
+    "description": "White wine vinegar, chicken breasts, gruyere cheese, dijo",
+    "price": 90,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chicken_crepe.png"
+  },
+  {
+    "id": 14,
+    "title": "Meat Crepe",
+    "category": "crepe",
+    "description": "Pulled pork, sour cream, crepes, hard boiled eggs, butter",
+    "price": 110,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/meat_crepe.png"
+  },
+  {
+    "id": 15,
+    "title": "French Fries Crepe",
+    "category": "crepe",
+    "description": "French fries, mozzarella, ketchup",
+    "price": 50,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/fries_crepe.png"
+  },
+  {
+    "id": 16,
+    "title": "Dark Chocolate Crepe",
+    "category": "crepe",
+    "description": "Chocolate pudding mix, evaporated milk, heavy cream",
+    "price": 50,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/dark_chocolate_crepe.png"
+  },
+  {
+    "id": 17,
+    "title": "Chicken Breast Meal",
+    "category": "meal",
+    "description": "Tender grilled chicken breast served with a side of vegetables or fries for a healthy and delicious meal.",
+    "price": 160,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/chicken_slice_meal.png"
+  },
+  {
+    "id": 18,
+    "title": "French Fries Meal",
+    "category": "meal",
+    "description": "Crispy golden fries served with your choice of dipping sauce for a simple and satisfying snack or side.",
+    "price": 100,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/french-fries-meal.png"
+  },
+  {
+    "id": 19,
+    "title": "Meat Meal",
+    "category": "meal",
+    "description": "A hearty plate of seasoned meat served with sides like rice or potatoes for a filling meal.",
+    "price": 165,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/meat_tomato_meal.png"
+  },
+  {
+    "id": 20,
+    "title": "Sea Food Meal",
+    "category": "meal",
+    "description": "A tasty mix of fresh seafood, seasoned perfectly and served with a side of salad or rice.",
+    "price": 180,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/seafoodmeal.png"
+  },
+  {
+    "id": 21,
+    "title": "Steak Meal",
+    "category": "meal",
+    "description": "Juicy grilled steak cooked to perfection and paired with vegetables or mashed potatoes.",
+    "price": 170,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/meal.png"
+  },
+  {
+    "id": 22,
+    "title": "Fettuccine",
+    "category": "meal",
+    "description": "Classic Italian pasta cooked in a creamy sauce with parmesan and herbs for rich flavor.",
+    "price": 110,
+    "image": "https://raw.githubusercontent.com/Mohamedsami11/food_data/main/images/Fettuccine.png"
+  }
 ]
